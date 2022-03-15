@@ -46,7 +46,7 @@ const Section = ({children, title}): Node => {
             color: isDarkMode ? Colors.light : Colors.dark,
           },
         ]}>
-        this is text added to see the changes here
+        this is text added to see the changes here for 3 branch
       </Text>
     </View>
   );
