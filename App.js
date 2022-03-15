@@ -46,7 +46,7 @@ const Section = ({children, title}): Node => {
             color: isDarkMode ? Colors.light : Colors.dark,
           },
         ]}>
-        {children}
+        this is text added to see the changes here
       </Text>
     </View>
   );
